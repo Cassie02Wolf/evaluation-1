@@ -1,0 +1,24 @@
+header {
+    border: solid 3px rgb(195, 46, 214);
+}
+nav {
+    background-color: rgb(195, 46, 214);   
+}
+
+
+.lien {
+    border: 2px solid #000; 
+}
+
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+
+a:hover {
+    color: red; /* Change la couleur au survol (remplacez "red" par la couleur souhaitée) */
+}
+
+
